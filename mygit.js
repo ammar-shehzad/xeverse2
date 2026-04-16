@@ -1,3 +1,5 @@
 let arr=[
-  {name:"hassan"}
+  {name:"hassan"},
+  {name:"ashan"}
+
 ]
